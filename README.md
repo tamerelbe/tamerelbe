@@ -1,15 +1,15 @@
-# Hi, I'm Tamer 👋
+# Hi, I'm Tamer 
 
 **Data & Business Analytics graduate (IE University, Madrid)** working where data, business and languages meet.
 
 I analyse data in **Python and SQL**, visualise it in **Power BI and Tableau**, and turn the results into clear, persuasive presentations.
 
-🌍 Arabic (native) · English, French, Italian (fluent) · Spanish (professional)
-📍 Madrid, Spain · 📫 telbenghazi@gmail.com
+ Arabic (native) · English, French, Italian (fluent) · Spanish (professional)
+ Madrid, Spain ·  telbenghazi@gmail.com
 
 ---
 
-### 📌 Featured projects
+###  Featured projects
 
 | Project | What it does | Tools |
 |---|---|---|
